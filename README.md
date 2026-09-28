@@ -110,3 +110,13 @@ The project uses an e-commerce sales dataset containing information about:
 - Geographic Analysis
 - Interactive Filters
 - Data Storytelling
+## 📊 Dashboard Screenshots
+
+### 1. E-Commerce Sales & Profit Analysis
+![E-Commerce Sales & Profit Analysis](E-COMMERCE%20SALES%20%26%20PROFIT%20ANALYSIS.png)
+
+### 2. Product & Sales Performance Analysis
+![Product & Sales Performance Analysis](PRODUCT%20%26%20SALES%20PERFORMANCE%20ANALYSIS.png)
+
+### 3. Customer & Order Analysis
+![Customer & Order Analysis](CUSTOMER%20%26%20ORDER%20ANALYSIS.png)
