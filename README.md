@@ -111,6 +111,7 @@ The project uses an e-commerce sales dataset containing information about:
 - Interactive Filters
 - Data Storytelling
 ## 📊 Dashboard Screenshots
+## 📊 Dashboard Screenshots
 
 ### 1. E-Commerce Sales & Profit Analysis
 ![E-Commerce Sales & Profit Analysis](E-COMMERCE%20SALES%20%26%20PROFIT%20ANALYSIS.png)
@@ -120,3 +121,4 @@ The project uses an e-commerce sales dataset containing information about:
 
 ### 3. Customer & Order Analysis
 ![Customer & Order Analysis](CUSTOMER%20%26%20ORDER%20ANALYSIS.png)
+
